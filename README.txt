@@ -1,1 +1,1 @@
-info about git merge
+info about git assignment
